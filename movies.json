@@ -3,59 +3,56 @@
     "seasons": [
       {
         "name": "Сезон 1 (2006)",
+        "season": 1,
         "series": [
-          { "name": "Dexter", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Crocodile", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Popping Cherry", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Let's Give the Boy a Hand", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Love American Style", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Return to Sender", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Circle of Friends", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Shrink Wrap", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Father Knows Best", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Seeing Red", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Truth Be Told", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "name": "Born Free", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" }
+          { "id": 1, "season": 1, "name": "Dexter", "url": "/player/1/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 2, "season": 1, "name": "Crocodile", "url": "/player/2/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 3, "season": 1, "name": "Popping Cherry", "url": "/player/3/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 4, "season": 1, "name": "Let's Give the Boy a Hand", "url": "/player/4/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 5, "season": 1, "name": "Love American Style", "url": "/player/5/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 6, "season": 1, "name": "Return to Sender", "url": "/player/6/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 7, "season": 1, "name": "Circle of Friends", "url": "/player/7/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 8, "season": 1, "name": "Shrink Wrap", "url": "/player/8/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 9, "season": 1, "name": "Father Knows Best", "url": "/player/9/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 10, "season": 1, "name": "Seeing Red", "url": "/player/10/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 11, "season": 1, "name": "Truth Be Told", "url": "/player/11/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "id": 12, "season": 1, "name": "Born Free", "url": "/player/12/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" }
         ]
       },
       {
         "name": "Сезон 2 (2007)",
+        "season": 2,
         "series": [
-          { "name": "It's Alive!", "url": "", "previewImg": "", "description": "" },
-          { "name": "Waiting to Exhale", "url": "", "previewImg": "", "description": "" },
-          { "name": "An Inconvenient Lie", "url": "", "previewImg": "", "description": "" },
-          { "name": "See‑Through", "url": "", "previewImg": "", "description": "" },
-          { "name": "The Dark Defender", "url": "", "previewImg": "", "description": "" },
-          { "name": "Dex, Lies, and Videotape", "url": "", "previewImg": "", "description": "" },
-          { "name": "That Night, a Forest Grew", "url": "", "previewImg": "", "description": "" },
-          { "name": "Morning Comes", "url": "", "previewImg": "", "description": "" },
-          { "name": "Resistance Is Futile", "url": "", "previewImg": "", "description": "" },
-          {
-            "name": "There's Something About Harry",
-            "url": "",
-            "previewImg": "",
-            "description": ""
-          },
-          { "name": "Left Turn Ahead", "url": "", "previewImg": "", "description": "" },
-          { "name": "The British Invasion", "url": "", "previewImg": "", "description": "" }
+          { "id": 13, "season": 2, "name": "It's Alive!", "url": "/player/13/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 14, "season": 2, "name": "Waiting to Exhale", "url": "/player/14/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 15, "season": 2, "name": "An Inconvenient Lie", "url": "/player/15/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 16, "season": 2, "name": "See‑Through", "url": "/player/16/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 17, "season": 2, "name": "The Dark Defender", "url": "/player/17/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 18, "season": 2, "name": "Dex, Lies, and Videotape", "url": "/player/18/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 19, "season": 2, "name": "That Night, a Forest Grew", "url": "/player/19/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 20, "season": 2, "name": "Morning Comes", "url": "/player/20/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 21, "season": 2, "name": "Resistance Is Futile", "url": "/player/21/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 22, "season": 2, "name": "There's Something About Harry", "url": "/player/22/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 23, "season": 2, "name": "Left Turn Ahead", "url": "/player/23/2", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 24, "season": 2, "name": "The British Invasion", "url": "/player/24/2", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       },
       {
         "name": "Dexter: New Blood",
+        "season": 3,
         "series": [
-          { "name": "Cold Snap", "url": "", "previewImg": "", "description": "" },
-          { "name": "Storm of Fuck", "url": "", "previewImg": "", "description": "" },
-          { "name": "Smoke Signals", "url": "", "previewImg": "", "description": "" },
-          { "name": "H is for Hero", "url": "", "previewImg": "", "description": "" },
-          { "name": "Runaway", "url": "", "previewImg": "", "description": "" },
-          { "name": "Too Many Tuna Sandwiches", "url": "", "previewImg": "", "description": "" },
-          { "name": "Skin of Her Teeth", "url": "", "previewImg": "", "description": "" },
-          { "name": "Unfair Game", "url": "", "previewImg": "", "description": "" },
-          { "name": "The Family Business", "url": "", "previewImg": "", "description": "" },
-          { "name": "Sins of the Father", "url": "", "previewImg": "", "description": "" }
+          { "id": 25, "season": 3, "name": "Cold Snap", "url": "/player/25/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 26, "season": 3, "name": "Storm of Fuck", "url": "/player/26/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 27, "season": 3, "name": "Smoke Signals", "url": "/player/27/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 28, "season": 3, "name": "H is for Hero", "url": "/player/28/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 29, "season": 3, "name": "Runaway", "url": "/player/29/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 30, "season": 3, "name": "Too Many Tuna Sandwiches", "url": "/player/30/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 31, "season": 3, "name": "Skin of Her Teeth", "url": "/player/31/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 32, "season": 3, "name": "Unfair Game", "url": "/player/32/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 33, "season": 3, "name": "The Family Business", "url": "/player/33/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 34, "season": 3, "name": "Sins of the Father", "url": "/player/34/3", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       }
     ]
   }
 ]
-
