@@ -1,0 +1,60 @@
+[
+  {
+    "seasons": [
+      {
+        "name": "Сезон 1 (2006)",
+        "series": [
+          { "name": "Dexter", "url": "", "previewImg": "", "description": "" },
+          { "name": "Crocodile", "url": "", "previewImg": "", "description": "" },
+          { "name": "Popping Cherry", "url": "", "previewImg": "", "description": "" },
+          { "name": "Let's Give the Boy a Hand", "url": "", "previewImg": "", "description": "" },
+          { "name": "Love American Style", "url": "", "previewImg": "", "description": "" },
+          { "name": "Return to Sender", "url": "", "previewImg": "", "description": "" },
+          { "name": "Circle of Friends", "url": "", "previewImg": "", "description": "" },
+          { "name": "Shrink Wrap", "url": "", "previewImg": "", "description": "" },
+          { "name": "Father Knows Best", "url": "", "previewImg": "", "description": "" },
+          { "name": "Seeing Red", "url": "", "previewImg": "", "description": "" },
+          { "name": "Truth Be Told", "url": "", "previewImg": "", "description": "" },
+          { "name": "Born Free", "url": "", "previewImg": "", "description": "" }
+        ]
+      },
+      {
+        "name": "Сезон 2 (2007)",
+        "series": [
+          { "name": "It's Alive!", "url": "", "previewImg": "", "description": "" },
+          { "name": "Waiting to Exhale", "url": "", "previewImg": "", "description": "" },
+          { "name": "An Inconvenient Lie", "url": "", "previewImg": "", "description": "" },
+          { "name": "See‑Through", "url": "", "previewImg": "", "description": "" },
+          { "name": "The Dark Defender", "url": "", "previewImg": "", "description": "" },
+          { "name": "Dex, Lies, and Videotape", "url": "", "previewImg": "", "description": "" },
+          { "name": "That Night, a Forest Grew", "url": "", "previewImg": "", "description": "" },
+          { "name": "Morning Comes", "url": "", "previewImg": "", "description": "" },
+          { "name": "Resistance Is Futile", "url": "", "previewImg": "", "description": "" },
+          {
+            "name": "There's Something About Harry",
+            "url": "",
+            "previewImg": "",
+            "description": ""
+          },
+          { "name": "Left Turn Ahead", "url": "", "previewImg": "", "description": "" },
+          { "name": "The British Invasion", "url": "", "previewImg": "", "description": "" }
+        ]
+      },
+      {
+        "name": "Dexter: New Blood",
+        "series": [
+          { "name": "Cold Snap", "url": "", "previewImg": "", "description": "" },
+          { "name": "Storm of Fuck", "url": "", "previewImg": "", "description": "" },
+          { "name": "Smoke Signals", "url": "", "previewImg": "", "description": "" },
+          { "name": "H is for Hero", "url": "", "previewImg": "", "description": "" },
+          { "name": "Runaway", "url": "", "previewImg": "", "description": "" },
+          { "name": "Too Many Tuna Sandwiches", "url": "", "previewImg": "", "description": "" },
+          { "name": "Skin of Her Teeth", "url": "", "previewImg": "", "description": "" },
+          { "name": "Unfair Game", "url": "", "previewImg": "", "description": "" },
+          { "name": "The Family Business", "url": "", "previewImg": "", "description": "" },
+          { "name": "Sins of the Father", "url": "", "previewImg": "", "description": "" }
+        ]
+      }
+    ]
+  }
+]
