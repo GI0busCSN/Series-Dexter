@@ -4,18 +4,18 @@
       {
         "name": "Сезон 1 (2006)",
         "series": [
-          { "name": "Dexter", "url": "", "previewImg": "", "description": "" },
-          { "name": "Crocodile", "url": "", "previewImg": "", "description": "" },
-          { "name": "Popping Cherry", "url": "", "previewImg": "", "description": "" },
-          { "name": "Let's Give the Boy a Hand", "url": "", "previewImg": "", "description": "" },
-          { "name": "Love American Style", "url": "", "previewImg": "", "description": "" },
-          { "name": "Return to Sender", "url": "", "previewImg": "", "description": "" },
-          { "name": "Circle of Friends", "url": "", "previewImg": "", "description": "" },
-          { "name": "Shrink Wrap", "url": "", "previewImg": "", "description": "" },
-          { "name": "Father Knows Best", "url": "", "previewImg": "", "description": "" },
-          { "name": "Seeing Red", "url": "", "previewImg": "", "description": "" },
-          { "name": "Truth Be Told", "url": "", "previewImg": "", "description": "" },
-          { "name": "Born Free", "url": "", "previewImg": "", "description": "" }
+          { "name": "Dexter", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Crocodile", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Popping Cherry", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Let's Give the Boy a Hand", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Love American Style", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Return to Sender", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Circle of Friends", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Shrink Wrap", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Father Knows Best", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Seeing Red", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Truth Be Told", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
+          { "name": "Born Free", "url": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" }
         ]
       },
       {
@@ -58,3 +58,4 @@
     ]
   }
 ]
+
