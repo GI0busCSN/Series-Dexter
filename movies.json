@@ -53,8 +53,122 @@
           { "id": 10, "season": 3, "name": "Sins of the Father", "url": "/player/34/3", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       }
+      {
+        "name": "Сезон 3 (2008)",
+        "season": 4,
+        "series": [
+          { "id": 1, "season": 4, "name": "Our Father", "url": "/player/1/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 4, "name": "Finding Freebo", "url": "/player/2/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 4, "name": "The Lion Sleeps Tonight", "url": "/player/3/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 4, "name": "All in the Family", "url": "/player/4/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 4, "name": "Turning Biminese", "url": "/player/5/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 4, "name": "Sí Se Puede", "url": "/player/6/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 4, "name": "Easy as Pie", "url": "/player/7/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 4, "name": "The Damage a Man Can Do", "url": "/player/8/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 4, "name": "About Last Night", "url": "/player/9/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 4, "name": "Go Your Own Way", "url": "/player/10/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 4, "name": "I Had a Dream", "url": "/player/11/4", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 4, "name": "Do You Take Dexter Morgan?", "url": "/player/12/4", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+
+      {
+        "name": "Сезон 4 (2009)",
+        "season": 5,
+        "series": [
+          { "id": 1, "season": 5, "name": "Living the Dream", "url": "/player/1/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 5, "name": "Remains to Be Seen", "url": "/player/2/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 5, "name": "Blinded by the Light", "url": "/player/3/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 5, "name": "Dex Takes a Holiday", "url": "/player/4/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 5, "name": "Dirty Harry", "url": "/player/5/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 5, "name": "If I Had a Hammer", "url": "/player/6/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 5, "name": "Slack Tide", "url": "/player/7/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 5, "name": "Road Kill", "url": "/player/8/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 5, "name": "Hungry Man", "url": "/player/9/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 5, "name": "Lost Boys", "url": "/player/10/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 5, "name": "Hello, Dexter Morgan", "url": "/player/11/5", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 5, "name": "The Getaway", "url": "/player/12/5", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+
+      {
+        "name": "Сезон 5 (2010)",
+        "season": 6,
+        "series": [
+          { "id": 1, "season": 6, "name": "My Bad", "url": "/player/1/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 6, "name": "Hello Bandit", "url": "/player/2/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 6, "name": "Practically Perfect", "url": "/player/3/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 6, "name": "Beauty and the Beast", "url": "/player/4/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 6, "name": "First Blood", "url": "/player/5/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 6, "name": "Everything Is Illumenated", "url": "/player/6/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 6, "name": "Circle Us", "url": "/player/7/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 6, "name": "Take It!", "url": "/player/8/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 6, "name": "Teenage Wasteland", "url": "/player/9/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 6, "name": "In the Beginning", "url": "/player/10/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 6, "name": "Hop a Freighter", "url": "/player/11/6", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 6, "name": "The Big One", "url": "/player/12/6", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+
+      {
+        "name": "Сезон 6 (2011)",
+        "season": 7,
+        "series": [
+          { "id": 1, "season": 7, "name": "Those Kinds of Things", "url": "/player/1/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 7, "name": "Once Upon a Time...", "url": "/player/2/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 7, "name": "Smokey and the Bandit", "url": "/player/3/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 7, "name": "A Horse of a Different Color", "url": "/player/4/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 7, "name": "The Angel of Death", "url": "/player/5/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 7, "name": "Just Let Go", "url": "/player/6/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 7, "name": "Nebraska", "url": "/player/7/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 7, "name": "Sin of Omission", "url": "/player/8/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 7, "name": "Get Gellar", "url": "/player/9/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 7, "name": "Ricochet Rabbit", "url": "/player/10/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 7, "name": "Talk to the Hand", "url": "/player/11/7", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 7, "name": "This Is the Way the World Ends", "url": "/player/12/7", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+
+      {
+        "name": "Сезон 7 (2012)",
+        "season": 8,
+        "series": [
+          { "id": 1, "season": 8, "name": "Are You...?", "url": "/player/1/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 8, "name": "Sunshine and Frosty Swirl", "url": "/player/2/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 8, "name": "Buck the System", "url": "/player/3/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 8, "name": "Run", "url": "/player/4/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 8, "name": "Swim Deep", "url": "/player/5/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 8, "name": "Do the Wrong Thing", "url": "/player/6/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 8, "name": "Chemistry", "url": "/player/7/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 8, "name": "Argentina", "url": "/player/8/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 8, "name": "Helter Skelter", "url": "/player/9/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 8, "name": "The Dark... Whatever", "url": "/player/10/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 8, "name": "Do You See What I See?", "url": "/player/11/8", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 8, "name": "Surprise, Motherfucker!", "url": "/player/12/8", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+
+      {
+        "name": "Сезон 8 (2013)",
+        "season": 9,
+        "series": [
+          { "id": 1, "season": 9, "name": "A Beautiful Day", "url": "/player/1/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 9, "name": "Every Silver Lining...", "url": "/player/2/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 9, "name": "What's Eating Dexter Morgan?", "url": "/player/3/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 9, "name": "Scar Tissue", "url": "/player/4/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 9, "name": "This Little Piggy", "url": "/player/5/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 9, "name": "A Little Reflection", "url": "/player/6/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 9, "name": "Dress Code", "url": "/player/7/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 9, "name": "Are We There Yet?", "url": "/player/8/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 9, "name": "Make Your Own Kind of Music", "url": "/player/9/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 9, "name": "Goodbye Miami", "url": "/player/10/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 11, "season": 9, "name": "Monkey in a Box", "url": "/player/11/9", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 12, "season": 9, "name": "Remember the Monsters?", "url": "/player/12/9", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      }
     ]
   }
 ]
+
 
 
