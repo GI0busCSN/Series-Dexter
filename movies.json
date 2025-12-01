@@ -38,6 +38,22 @@
         ]
       },
       {
+        "name": "Dexter: New Blood",
+        "season": 3,
+        "series": [
+          { "id": 1, "season": 3, "name": "Cold Snap", "url": "/player/25/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 2, "season": 3, "name": "Storm of Fuck", "url": "/player/26/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 3, "season": 3, "name": "Smoke Signals", "url": "/player/27/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 4, "season": 3, "name": "H is for Hero", "url": "/player/28/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 5, "season": 3, "name": "Runaway", "url": "/player/29/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 6, "season": 3, "name": "Too Many Tuna Sandwiches", "url": "/player/30/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 7, "season": 3, "name": "Skin of Her Teeth", "url": "/player/31/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 8, "season": 3, "name": "Unfair Game", "url": "/player/32/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 9, "season": 3, "name": "The Family Business", "url": "/player/33/3", "videoUrl": "", "previewImg": "", "description": "" },
+          { "id": 10, "season": 3, "name": "Sins of the Father", "url": "/player/34/3", "videoUrl": "", "previewImg": "", "description": "" }
+        ]
+      },
+      {
         "name": "Сезон 3 (2008)",
         "season": 4,
         "series": [
@@ -55,6 +71,7 @@
           { "id": 12, "season": 4, "name": "Do You Take Dexter Morgan?", "url": "/player/12/4", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       },
+
       {
         "name": "Сезон 4 (2009)",
         "season": 5,
@@ -73,6 +90,7 @@
           { "id": 12, "season": 5, "name": "The Getaway", "url": "/player/12/5", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       },
+
       {
         "name": "Сезон 5 (2010)",
         "season": 6,
@@ -91,6 +109,7 @@
           { "id": 12, "season": 6, "name": "The Big One", "url": "/player/12/6", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       },
+
       {
         "name": "Сезон 6 (2011)",
         "season": 7,
@@ -109,6 +128,7 @@
           { "id": 12, "season": 7, "name": "This Is the Way the World Ends", "url": "/player/12/7", "videoUrl": "", "previewImg": "", "description": "" }
         ]
       },
+
       {
         "name": "Сезон 7 (2012)",
         "season": 8,
@@ -145,28 +165,9 @@
           { "id": 11, "season": 9, "name": "Monkey in a Box", "url": "/player/11/9", "videoUrl": "", "previewImg": "", "description": "" },
           { "id": 12, "season": 9, "name": "Remember the Monsters?", "url": "/player/12/9", "videoUrl": "", "previewImg": "", "description": "" }
         ]
-      },
-      {
-        "name": "Dexter: New Blood",
-        "season": 3,
-        "series": [
-          { "id": 1, "season": 3, "name": "Cold Snap", "url": "/player/25/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 2, "season": 3, "name": "Storm of Fuck", "url": "/player/26/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 3, "season": 3, "name": "Smoke Signals", "url": "/player/27/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 4, "season": 3, "name": "H is for Hero", "url": "/player/28/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 5, "season": 3, "name": "Runaway", "url": "/player/29/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 6, "season": 3, "name": "Too Many Tuna Sandwiches", "url": "/player/30/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 7, "season": 3, "name": "Skin of Her Teeth", "url": "/player/31/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 8, "season": 3, "name": "Unfair Game", "url": "/player/32/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 9, "season": 3, "name": "The Family Business", "url": "/player/33/3", "videoUrl": "", "previewImg": "", "description": "" },
-          { "id": 10, "season": 3, "name": "Sins of the Father", "url": "/player/34/3", "videoUrl": "", "previewImg": "", "description": "" }
-        ]
       }
     ]
   }
 ]
-
-
-
 
 
