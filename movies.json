@@ -6,17 +6,17 @@
         "season": 1,
         "series": [
           { "id": 1, "season": 1, "name": "Dexter", "url": "/player/1/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 2, "season": 1, "name": "Crocodile", "url": "/player/2/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 3, "season": 1, "name": "Popping Cherry", "url": "/player/3/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 4, "season": 1, "name": "Let's Give the Boy a Hand", "url": "/player/4/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 5, "season": 1, "name": "Love American Style", "url": "/player/5/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 6, "season": 1, "name": "Return to Sender", "url": "/player/6/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 7, "season": 1, "name": "Circle of Friends", "url": "/player/7/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 8, "season": 1, "name": "Shrink Wrap", "url": "/player/8/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 9, "season": 1, "name": "Father Knows Best", "url": "/player/9/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 10, "season": 1, "name": "Seeing Red", "url": "/player/10/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 11, "season": 1, "name": "Truth Be Told", "url": "/player/11/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" },
-          { "id": 12, "season": 1, "name": "Born Free", "url": "/player/12/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/1.jpg", "description": "" }
+          { "id": 2, "season": 1, "name": "Crocodile", "url": "/player/2/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/2.jpg", "description": "" },
+          { "id": 3, "season": 1, "name": "Popping Cherry", "url": "/player/3/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/3.jpg", "description": "" },
+          { "id": 4, "season": 1, "name": "Let's Give the Boy a Hand", "url": "/player/4/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/4.jpg", "description": "" },
+          { "id": 5, "season": 1, "name": "Love American Style", "url": "/player/5/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/5.jpg", "description": "" },
+          { "id": 6, "season": 1, "name": "Return to Sender", "url": "/player/6/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/6.jpg", "description": "" },
+          { "id": 7, "season": 1, "name": "Circle of Friends", "url": "/player/7/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/7.jpg", "description": "" },
+          { "id": 8, "season": 1, "name": "Shrink Wrap", "url": "/player/8/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/8.jpg", "description": "" },
+          { "id": 9, "season": 1, "name": "Father Knows Best", "url": "/player/9/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/9.jpg", "description": "" },
+          { "id": 10, "season": 1, "name": "Seeing Red", "url": "/player/10/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/10.jpg", "description": "" },
+          { "id": 11, "season": 1, "name": "Truth Be Told", "url": "/player/11/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/11.jpg", "description": "" },
+          { "id": 12, "season": 1, "name": "Born Free", "url": "/player/12/1", "videoUrl": "", "previewImg": "https://dexter-serial.com/uploads/posts/2024-06/12.jpg", "description": "" }
         ]
       },
       {
@@ -56,4 +56,5 @@
     ]
   }
 ]
+
 
